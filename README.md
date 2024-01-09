@@ -1,2 +1,2 @@
 # example
-https://pelebahalag.github.io/main.html/
+https://pelebahalag.github.io/main.html
